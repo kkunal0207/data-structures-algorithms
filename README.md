@@ -27,10 +27,6 @@ This repository reflects my **current best understanding** and evolves with lear
 ```text
 data-structures-algorithms/
 ├── arrays/
-│   ├── move_zeros.java
-│   ├── second_largest.java
-│   ├── two_sum.java
-│   └── README.md
 ├── binary_search/
 ├── recursion/
 ├── bit_manipulation/

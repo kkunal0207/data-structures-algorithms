@@ -26,13 +26,23 @@ This repository reflects my **current best understanding** and evolves with lear
 
 ```text
 data-structures-algorithms/
-├── arrays/
-├── binary_search/
-├── recursion/
-├── bit_manipulation/
-├── linked_list/
-├── stack_queue/
-├── trees/
-├── graphs/
-├── dynamic_programming/
+├── src/
+│   └── main/
+│       └── java/
+│           └── com/
+│               └── dsa/
+│                   └── learning/
+│                       ├── arrays/
+│                       ├── binary_search/
+│                       ├── recursion/
+│                       ├── bit_manipulation/
+│                       ├── linked_list/
+│                       ├── stack_queue/
+│                       ├── trees/
+│                       ├── graphs/
+│                       ├── dynamic_programming/
+│                       └── README.md
+├── .gitignore
+├── pom.xml   (if using Maven)
 └── README.md
+
